@@ -1,9 +1,6 @@
-# Projekat_StudentskaSluzba
+# Student Service 
 
-Student 1: Marija Petrović RA53-2018
+## Description
 
-Student 2: Nikolina Pavković RA56-2018
-
-JDK 14
-
-Eclipse IDE ,version: 2020-09 (4.17.0)
+Student Service application is a software designed for both students and professors.  
+It helps them to record grades, passed and failed exams. Also, thanks to the app, they have access to the most important information within the university.
